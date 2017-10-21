@@ -9,4 +9,6 @@ devops-tree:
 8.chef
 9.ansible
 10.aws
+11.packer 
+12.vagrant
 
