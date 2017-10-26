@@ -12,17 +12,4 @@ devops-tree:
 11.hashicorp-tools 
 12.database
 13.mysql database
-<<<<<<< ours
-10.aws
-11.packer 
-12.vagrant
-13.python
-14.ruby
-=======
-14.aws
-15.packer 
-16.vagrant
-17.python
-18.php
->>>>>>> theirs
 
