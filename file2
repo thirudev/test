@@ -12,4 +12,9 @@ devops-tree:
 11.hashicorp-tools 
 12.database
 13.mysql database
+14.aws
+15.consul 
+16.nomad
+17.python
+18.ruby
 
