@@ -8,8 +8,8 @@ devops-tree:
 7.vagrant
 8.chef
 9.ansible
-10.aws
-11.packer 
-12.vagrant
+10.cloud
+11.hashicorp-tools 
+12.database
 13.mysql database
 
