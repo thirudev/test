@@ -10,6 +10,6 @@ devops-tree:
 9.ansible
 10.aws
 11.packer 
-12.vagrant
+12.nomad
 13.mysql database
 
